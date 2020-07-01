@@ -1,0 +1,28 @@
+{
+  "name": "sorax",
+  "version": "0.1.0",
+  "description": "web framework for application development",
+  "main": "lib/application.js",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouLower/Sorax.git"
+  },
+  "keywords": [
+    "framework",
+    "web",
+    "sorax"
+  ],
+  "author": "Arthur Grinberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouLower/Sorax/issues"
+  },
+  "homepage": "https://github.com/SouLower/Sorax#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "request": "^2.88.2"
+  }
+}
