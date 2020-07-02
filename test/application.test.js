@@ -1,6 +1,6 @@
 const assert = require("assert");
 
-const Sorax = require("../");
+const Sorax = require("../lib/application");
 
 describe("Application", function () {
 
